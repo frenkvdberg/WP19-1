@@ -80,7 +80,7 @@ function main () {
     scheduleArticle = document.createElement("article");
     scheduleHeader = document.createElement("h1");
     schedulePar = document.createElement("p");
-    scheduleHeaderText = document.createTextNode("Weekly Schedule");
+    scheduleHeaderText = document.createTextNode("Weekly Schedule:");
     scheduleHeader.appendChild(scheduleHeaderText);
     scheduleArticle.appendChild(scheduleHeader);
     for (item in weeklySchedule) {
