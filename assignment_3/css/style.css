@@ -1,0 +1,19 @@
+.wp-row {
+    margin: 100px 0 100px 0;
+}
+
+th, td {
+    border-bottom: 1px solid #ddd;
+}
+
+table {
+    width: 50%;
+}
+
+#news_container {
+    margin-top: 5%;
+}
+
+.news-card {
+    margin-bottom: 2%;
+}
